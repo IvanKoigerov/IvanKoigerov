@@ -1,6 +1,5 @@
 <h2> Привет! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
----
 ### :man_technologist: Обо мне:
 Я Front-end разработчик <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. 
 Мой путь начался со стажировки в компании Web-Bee, там я делал свои первые шаги как разработчик.
@@ -13,7 +12,7 @@
 ---
 
 ### 💻 Технологии:
-  #### Основной стек
+  #### Основной стек:
   <div>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -55,7 +54,7 @@
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   </div>
   
-#### Дополнительные компетенции
+#### Дополнительные компетенции:
 
   <div>
   <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
@@ -86,11 +85,9 @@
 
 ### ⚙️ GitHub статистика:
 
-  <div  style="display: flex; align-items: center; gap: 8px">
-    <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKoigerov&layout=donut&theme=tokyonight">
-    <img width="62.5%" src="https://github-readme-stats.vercel.app/api?username=IvanKoigerov&theme=tokyonight&show_icons=true&hide=stars">
+  <div  style="display: flex; gap: 8px; align-items: center; justify-content: center;">
+    <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvanKoigerov&layout=donut&theme=tokyonight">
+    <img width="56%" src="https://github-readme-stats.vercel.app/api?username=IvanKoigerov&theme=tokyonight&hide=stars,issues&show_icons=true&rank_icon=github&include_all_commits=true&show=reviews,prs_merged,prs_merged_percentage">
   </div>
-
----
 
 <!-- https://dev.to/envoy_/150-badges-for-github-pnk https://badges.pages.dev/?q=type-->
