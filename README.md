@@ -14,6 +14,7 @@
 
 ### 💻 Технологии:
   #### Основной стек
+  <div>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
 
@@ -52,8 +53,11 @@
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=fff&style=flat-square" />
   
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-
+  </div>
+  
 #### Дополнительные компетенции
+
+  <div>
   <img alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=flat-square" />
   <img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
   <img alt="Sequelize" src="https://img.shields.io/badge/sequelize-323330?style=flat-square&logo=sequelize&logoColor=blue" />
@@ -76,6 +80,7 @@
   <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?logo=androidstudio&logoColor=fff&style=flat-square" alt="Android Studio Badge">
 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000&style=flat-square" alt="Firebase Badge">
+</div>
 
 ---
 
